@@ -4,7 +4,7 @@
 
 # <a href="https://github.com/HungtruongOwolf"><img src="https://cdn3.emoji.gg/emojis/4104_wolf.png" width="64px" height="64px" alt="Wolf"></a> Hi, I'm Hung Truong!
 
-CS senior at University of South Florida. Previously at Microsoft, OPSWAT, FPT Software, MoMo, and Equitar Technologies. Passionate about hackathons and open source.
+CS student at University of South Florida. Previously at Microsoft, MoMo, and Flow. Passionate about hackathons and open source.
 
 <hr>
 
